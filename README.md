@@ -13,6 +13,7 @@
 ### En nuestro equipo
 ### En el servidor
 ### En los equipos a monitorear
+### Recepción de Alertas
 ## Zabbix Server
 ### Instalación
 #### Tradicional
